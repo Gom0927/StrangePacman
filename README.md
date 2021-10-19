@@ -9,7 +9,7 @@
 ** 주의사항 **
 게임 사운드가 시끄럽거나 별로일 수 있으니, 볼륨을 낮추고 시작하시는걸 추천드립니다.
 
-## Orignal File
+## Original File
 전부 제가 코드를 짠게 아닙니다.
 원본 소스를 받을 수 있는 곳은 ```https://itsourcecode.com/free-projects/python-projects/pacman-in-python-code/``` 입니다.
 <br/>
