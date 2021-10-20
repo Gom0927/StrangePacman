@@ -1,4 +1,6 @@
 # StrangePacman
+![GitHub](https://img.shields.io/github/license/Gom0927/StrangePacman)
+
 팩맨입니다. 그런데 뭔가 좀 이상한.
 
 ## About
