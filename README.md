@@ -1,5 +1,7 @@
 # StrangePacman
 ![GitHub](https://img.shields.io/github/license/Gom0927/StrangePacman)
+![Python](https://img.shields.io/badge/Python-3.8.8-blue)
+![Pygame](https://img.shields.io/badge/Pygame-2.0.2-9cf)
 
 팩맨입니다. 그런데 뭔가 좀 이상한.
 
@@ -21,7 +23,7 @@
 1. Python을 설치하세요. (테스트한 Python 버전은 3.8.8입니다) - https://python.org
 2. 그리고, 폴더를 하나 생성해주세요.<br/>
 3. Git이 컴퓨터에 설치되어있는 경우, ```git clone https://github.com/Gom0927/StrangePacman``` 명령어를 실행해주세요.<br/>
-4. 설치가 되어있지 않으시다면 아래 이미지처럼 ZIP 파일을 받고 생성한 폴더에 압축을 해제해 주세요.
+4. 설치가 되어있지 않으시다면 아래 이미지처럼 ZIP 파일을 받고 (PC기준 Code라고 적힌 버튼을 눌러주세요. 가운데에서 살짝 위, 오른쪽에 위치해있는 연두색 버튼입니다) 생성한 폴더에 압축을 해제해 주세요.
 
 ![image](https://user-images.githubusercontent.com/73982824/137871622-c136ac8c-d834-4799-9a74-4248043bbe89.png)
 <br/>
